@@ -34,6 +34,5 @@ int main(void) {
         cout << "The numbers is zero";
     cout << endl;
 
-
     return 0;
 }
